@@ -1,0 +1,1 @@
+delete FROM `om_robot_sender` WHERE id>300
